@@ -1,5 +1,7 @@
 (fp_lib_table
-  (lib (name JS203011SCQN)(type KiCad)(uri ${KIPRJMOD}/JS203011SCQN)(options "")(descr ""))
-  (lib (name 2-1437565-7)(type KiCad)(uri ${KIPRJMOD}/2-1437565-7)(options "")(descr ""))
-  (lib (name PTS641SM34SMTR2LFS)(type KiCad)(uri ${KIPRJMOD}/PTS641SM34SMTR2LFS)(options "")(descr ""))
+  (version 7)
+  (lib (name "JS203011SCQN")(type "KiCad")(uri "${KIPRJMOD}/JS203011SCQN")(options "")(descr ""))
+  (lib (name "2-1437565-7")(type "KiCad")(uri "${KIPRJMOD}/2-1437565-7")(options "")(descr ""))
+  (lib (name "PTS641SM34SMTR2LFS")(type "KiCad")(uri "${KIPRJMOD}/PTS641SM34SMTR2LFS")(options "")(descr ""))
+  (lib (name "icc-1")(type "KiCad")(uri "${KIPRJMOD}/ikea/footprints/icc-1.pretty")(options "")(descr ""))
 )
