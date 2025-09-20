@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "IKEA_Button2-rescue")(type "KiCad")(uri "${KIPRJMOD}/IKEA_Button2-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "TRADFRI_PCB2.0")(type "Legacy")(uri "C:/Users/pmr/Documents/3d/IKEA_Button2/TRADFRI_PCB2.0.lib")(options "")(descr "")(disabled))
+  (lib (name "icc-1")(type "Legacy")(uri "C:/Users/pmr/Documents/3d/IKEA_Button2/ikea/symbols/icc-1.lib")(options "")(descr ""))
+  (lib (name "JS203011SCQN")(type "Legacy")(uri "${KIPRJMOD}/JS203011SCQN/JS203011SCQN.lib")(options "")(descr ""))
+)
